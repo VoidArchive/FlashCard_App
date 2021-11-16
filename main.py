@@ -26,7 +26,7 @@ def next_card():
     canvas.itemconfig(language, text="German",fill="black")
     canvas.itemconfig(word, text=current_card["German"],fill = "black")
     canvas.itemconfig(front_image,image=back_page)
-    flip_timer = window.after(3000, flip_card)
+    flip_timer = window.after(10000, flip_card)
 
 # ------------------ Flip Card--------------------#
 
