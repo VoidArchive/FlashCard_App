@@ -5,4 +5,4 @@
 ![Back Image](/images/back.png?raw=true "Back Image")
 
 
-CAPSTONE PROJECT OF 100 Day of Code
+Day 31: Capstone project OF 100 Day of Code
